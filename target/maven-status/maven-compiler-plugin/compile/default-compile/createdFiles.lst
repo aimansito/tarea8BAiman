@@ -1,0 +1,5 @@
+modelo\Conexion.class
+modelo\PersonaVO.class
+aplicacion\Programa.class
+modelo\IPersona.class
+modelo\PersonaDAO.class
